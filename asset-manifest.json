@@ -1,26 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.73e5a6f0.chunk.css",
-    "main.js": "/static/js/main.74d6a250.chunk.js",
-    "main.js.map": "/static/js/main.74d6a250.chunk.js.map",
+    "main.css": "/static/css/main.d6e3206f.chunk.css",
+    "main.js": "/static/js/main.88968dab.chunk.js",
+    "main.js.map": "/static/js/main.88968dab.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.7a9ef57c.js",
     "runtime-main.js.map": "/static/js/runtime-main.7a9ef57c.js.map",
-    "static/css/2.57b82891.chunk.css": "/static/css/2.57b82891.chunk.css",
-    "static/js/2.724f2d6e.chunk.js": "/static/js/2.724f2d6e.chunk.js",
-    "static/js/2.724f2d6e.chunk.js.map": "/static/js/2.724f2d6e.chunk.js.map",
+    "static/css/2.80ff246b.chunk.css": "/static/css/2.80ff246b.chunk.css",
+    "static/js/2.db11777c.chunk.js": "/static/js/2.db11777c.chunk.js",
+    "static/js/2.db11777c.chunk.js.map": "/static/js/2.db11777c.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.c553c807de8f8422b7820c8232d77b43.js": "/precache-manifest.c553c807de8f8422b7820c8232d77b43.js",
+    "precache-manifest.12d34114ad40585ca1b56815e9e1ac50.js": "/precache-manifest.12d34114ad40585ca1b56815e9e1ac50.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/2.57b82891.chunk.css.map": "/static/css/2.57b82891.chunk.css.map",
-    "static/css/main.73e5a6f0.chunk.css.map": "/static/css/main.73e5a6f0.chunk.css.map",
-    "static/js/2.724f2d6e.chunk.js.LICENSE": "/static/js/2.724f2d6e.chunk.js.LICENSE",
-    "static/media/font-awesome.min.css": "/static/media/fontawesome-webfont.fee66e71.woff"
+    "static/css/2.80ff246b.chunk.css.map": "/static/css/2.80ff246b.chunk.css.map",
+    "static/css/main.d6e3206f.chunk.css.map": "/static/css/main.d6e3206f.chunk.css.map",
+    "static/js/2.db11777c.chunk.js.LICENSE": "/static/js/2.db11777c.chunk.js.LICENSE",
+    "static/media/font-awesome.min.css": "/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/slick-theme.css": "/static/media/slick.f97e3bbf.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.7a9ef57c.js",
-    "static/css/2.57b82891.chunk.css",
-    "static/js/2.724f2d6e.chunk.js",
-    "static/css/main.73e5a6f0.chunk.css",
-    "static/js/main.74d6a250.chunk.js"
+    "static/css/2.80ff246b.chunk.css",
+    "static/js/2.db11777c.chunk.js",
+    "static/css/main.d6e3206f.chunk.css",
+    "static/js/main.88968dab.chunk.js"
   ]
 }
